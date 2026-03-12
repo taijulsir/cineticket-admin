@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 5111",
     "lint": "next lint",
     "test:e2e": "playwright test"
   },
